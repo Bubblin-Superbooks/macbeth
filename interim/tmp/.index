@@ -1,0 +1,8 @@
+{
+  "0": "<li><a class = \"page\" href=\"10\">Actus Primus. Scoena Prima.</a> <span class=\"flex\">10</span> </li>",
+  "1": "<li><a class = \"page\" href=\"39\">Actus Secundus. Scena Prima.</a> <span class=\"flex\">39</span> </li>",
+  "2": "<li><a class = \"page\" href=\"60\">Actus Tertius. Scena Prima.</a> <span class=\"flex\">60</span> </li>",
+  "3": "<li><a class = \"page\" href=\"88\">Actus Quartus. Scena Prima.</a> <span class=\"flex\">88</span> </li>",
+  "4": "<li><a class = \"page\" href=\"116\">Actus Quintus. Scena Prima.</a> <span class=\"flex\">116</span> </li>",
+  "5": "<li><a class = \"page\" href=\"139\">Finis. The Tragedie Of Macbeth.</a> <span class=\"flex\">139</span> </li>"
+}
